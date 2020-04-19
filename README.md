@@ -12,4 +12,4 @@ An official website demo made with bootstrap when learning gin framework with go
 | 03  | gin 切片 |
 
 # 官网首页
-![麦子学院]("/static/images/go-website-index.png" "麦子学院")
+![麦子学院](/static/images/go-website-index.png "麦子学院")
