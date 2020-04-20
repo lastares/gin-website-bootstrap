@@ -11,5 +11,5 @@ An official website demo made with bootstrap when learning gin framework with go
 | 03  | gin 结构体 |
 | 03  | gin 切片 |
 
-# 官网首页
+# Demo官网首页
 ![麦子学院](./static/images/go-website-index.png)
